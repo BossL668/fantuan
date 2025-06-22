@@ -66,4 +66,10 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.temp 
+*.temp
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z 
